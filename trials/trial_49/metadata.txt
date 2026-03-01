@@ -1,0 +1,17 @@
+trial=49
+object_1_category_top=non animates
+object_1_category=toys
+object_1_name=rocking-horse.png
+object_2_category_top=non animates
+object_2_category=toys
+object_2_name=toy-train.png
+player_category_top=non animate actors new
+player_category=hats
+player_name=baseball-cap.png
+template=T2
+correct_response=B
+object_on_left=2
+object_on_left_name=toy-train.png
+object_on_right_name=rocking-horse.png
+motion_direction=right
+description=Template T2, object 2 (toy-train.png) on left, object 1 (rocking-horse.png) on right, motion toward right

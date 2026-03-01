@@ -1,0 +1,17 @@
+trial=54
+object_1_category_top=non animates
+object_1_category=drinks
+object_1_name=soft-drink (1).png
+object_2_category_top=non animates
+object_2_category=drinks
+object_2_name=soda.png
+player_category_top=non animate actors new
+player_category=hats
+player_name=baseballcap.png
+template=T1
+correct_response=A
+object_on_left=1
+object_on_left_name=soft-drink (1).png
+object_on_right_name=soda.png
+motion_direction=left
+description=Template T1, object 1 (soft-drink (1).png) on left, object 2 (soda.png) on right, motion toward left
