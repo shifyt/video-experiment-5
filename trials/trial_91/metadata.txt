@@ -1,0 +1,17 @@
+trial=91
+object_1_category_top=non animates
+object_1_category=foods
+object_1_name=carrot.png
+object_2_category_top=non animates
+object_2_category=foods
+object_2_name=apple (2).png
+player_category_top=non animate actors new
+player_category=shoes
+player_name=shoe.png
+template=T2
+correct_response=B
+object_on_left=2
+object_on_left_name=apple (2).png
+object_on_right_name=carrot.png
+motion_direction=right
+description=Template T2, object 2 (apple (2).png) on left, object 1 (carrot.png) on right, motion toward right

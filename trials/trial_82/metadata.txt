@@ -1,0 +1,17 @@
+trial=82
+object_1_category_top=non animates
+object_1_category=drinks
+object_1_name=soda.png
+object_2_category_top=non animates
+object_2_category=drinks
+object_2_name=cold-drink.png
+player_category_top=non animate actors new
+player_category=shoes
+player_name=running-shoe.png
+template=T1
+correct_response=A
+object_on_left=1
+object_on_left_name=soda.png
+object_on_right_name=cold-drink.png
+motion_direction=left
+description=Template T1, object 1 (soda.png) on left, object 2 (cold-drink.png) on right, motion toward left

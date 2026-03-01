@@ -1,0 +1,17 @@
+trial=87
+object_1_category_top=non animates
+object_1_category=foods
+object_1_name=grape.png
+object_2_category_top=non animates
+object_2_category=foods
+object_2_name=bell-pepper.png
+player_category_top=non animate actors new
+player_category=shoes
+player_name=shoe (1).png
+template=T2
+correct_response=B
+object_on_left=2
+object_on_left_name=bell-pepper.png
+object_on_right_name=grape.png
+motion_direction=right
+description=Template T2, object 2 (bell-pepper.png) on left, object 1 (grape.png) on right, motion toward right
