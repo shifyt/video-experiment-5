@@ -1,0 +1,17 @@
+trial=28
+object_1_category_top=non animates
+object_1_category=toys
+object_1_name=rocking-horse.png
+object_2_category_top=non animates
+object_2_category=toys
+object_2_name=toy-blocks.png
+player_category_top=non animate actors new
+player_category=boxes
+player_name=gift-box (2).png
+template=T1
+correct_response=A
+object_on_left=1
+object_on_left_name=rocking-horse.png
+object_on_right_name=toy-blocks.png
+motion_direction=left
+description=Template T1, object 1 (rocking-horse.png) on left, object 2 (toy-blocks.png) on right, motion toward left

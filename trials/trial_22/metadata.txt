@@ -1,0 +1,17 @@
+trial=22
+object_1_category_top=non animates
+object_1_category=foods
+object_1_name=tomato.png
+object_2_category_top=non animates
+object_2_category=foods
+object_2_name=grape.png
+player_category_top=non animate actors new
+player_category=balls
+player_name=woman (2).png
+template=T1
+correct_response=A
+object_on_left=1
+object_on_left_name=tomato.png
+object_on_right_name=grape.png
+motion_direction=left
+description=Template T1, object 1 (tomato.png) on left, object 2 (grape.png) on right, motion toward left
