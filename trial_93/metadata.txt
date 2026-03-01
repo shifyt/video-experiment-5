@@ -1,0 +1,17 @@
+trial=93
+object_1_category_top=non animates
+object_1_category=drinks
+object_1_name=orange-juice (1).png
+object_2_category_top=non animates
+object_2_category=drinks
+object_2_name=soft-drink (1).png
+player_category_top=non animate actors new
+player_category=shoes
+player_name=shoes.png
+template=T2
+correct_response=B
+object_on_left=2
+object_on_left_name=soft-drink (1).png
+object_on_right_name=orange-juice (1).png
+motion_direction=right
+description=Template T2, object 2 (soft-drink (1).png) on left, object 1 (orange-juice (1).png) on right, motion toward right
